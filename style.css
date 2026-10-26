@@ -62,7 +62,7 @@ a:focus-visible {
   display: block;
   width: 100%;
   height: auto;
-  /* aspect-ratio: 104 / 135; */
+  /* aspect-ratio: 100 / 120; */
   object-fit: cover;
   transition: opacity 0.2s ease;
 }
@@ -73,10 +73,10 @@ a:focus-visible {
 
 .w1 { left: 5%; top: 5%; }
 /* potential future positioning */
- .w2 { left: 75%; top: 0; }
-.w3 { left: 70%; top: 45.5%; }
-.w4 { left: 58.01%; top: 35.5%; }
-/* .w5 { left: 3.00%;  top: 71%; } */
+.w2 { left: 75%; top: 0; }
+.w3 { left: 70%; top: 35.5%; }
+.w4 { left: 38.01%; top: 35.5%; }
+.w5 { left: 3.00%;  top: 71%; }
 /* .w6 { left: 35.68%; top: 71%; } */
 /* .w7 { left: 74.97%; top: 71%; } */
 /* .w8 { left: 86.45%; top: 71%; }  */
